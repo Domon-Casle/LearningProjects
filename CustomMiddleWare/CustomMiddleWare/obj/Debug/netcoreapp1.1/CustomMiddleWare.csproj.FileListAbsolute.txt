@@ -1,0 +1,9 @@
+D:\JavaScriptClasses\MyProjects\CustomMiddleWare\CustomMiddleWare\bin\Debug\netcoreapp1.1\CustomMiddleWare.deps.json
+D:\JavaScriptClasses\MyProjects\CustomMiddleWare\CustomMiddleWare\bin\Debug\netcoreapp1.1\CustomMiddleWare.runtimeconfig.json
+D:\JavaScriptClasses\MyProjects\CustomMiddleWare\CustomMiddleWare\bin\Debug\netcoreapp1.1\CustomMiddleWare.runtimeconfig.dev.json
+D:\JavaScriptClasses\MyProjects\CustomMiddleWare\CustomMiddleWare\bin\Debug\netcoreapp1.1\CustomMiddleWare.dll
+D:\JavaScriptClasses\MyProjects\CustomMiddleWare\CustomMiddleWare\bin\Debug\netcoreapp1.1\CustomMiddleWare.pdb
+D:\JavaScriptClasses\MyProjects\CustomMiddleWare\CustomMiddleWare\obj\Debug\netcoreapp1.1\CustomMiddleWare.csprojResolveAssemblyReference.cache
+D:\JavaScriptClasses\MyProjects\CustomMiddleWare\CustomMiddleWare\obj\Debug\netcoreapp1.1\CustomMiddleWare.AssemblyInfo.cs
+D:\JavaScriptClasses\MyProjects\CustomMiddleWare\CustomMiddleWare\obj\Debug\netcoreapp1.1\CustomMiddleWare.dll
+D:\JavaScriptClasses\MyProjects\CustomMiddleWare\CustomMiddleWare\obj\Debug\netcoreapp1.1\CustomMiddleWare.pdb
