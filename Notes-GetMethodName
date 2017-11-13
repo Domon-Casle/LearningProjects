@@ -1,0 +1,6 @@
+//Get a method's real name at run time:
+Expression<Func<(Controller), (Return type)>> update = (c => c.Update(this/* pass this in */));
+Expression<Func<(Controller), (Return type)>> create= (c => c.Create(this/* pass this in */));
+
+var action = (Id != 0) ? update : create;
+var actionName = (action.Body as MethodCallExpression).Method.Name;
