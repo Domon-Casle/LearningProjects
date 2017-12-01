@@ -1,0 +1,11 @@
+C:\Users\pknox\Documents\Visual Studio 2017\Projects\TestBed\TestBed\bin\Debug\netcoreapp2.0\Ninject_And_AutoMapper.deps.json
+C:\Users\pknox\Documents\Visual Studio 2017\Projects\TestBed\TestBed\bin\Debug\netcoreapp2.0\Ninject_And_AutoMapper.runtimeconfig.json
+C:\Users\pknox\Documents\Visual Studio 2017\Projects\TestBed\TestBed\bin\Debug\netcoreapp2.0\Ninject_And_AutoMapper.runtimeconfig.dev.json
+C:\Users\pknox\Documents\Visual Studio 2017\Projects\TestBed\TestBed\bin\Debug\netcoreapp2.0\Ninject_And_AutoMapper.dll
+C:\Users\pknox\Documents\Visual Studio 2017\Projects\TestBed\TestBed\bin\Debug\netcoreapp2.0\Ninject_And_AutoMapper.pdb
+C:\Users\pknox\Documents\Visual Studio 2017\Projects\TestBed\TestBed\obj\Debug\netcoreapp2.0\Ninject_And_AutoMapper.csprojResolveAssemblyReference.cache
+C:\Users\pknox\Documents\Visual Studio 2017\Projects\TestBed\TestBed\obj\Debug\netcoreapp2.0\Ninject_And_AutoMapper.csproj.CoreCompileInputs.cache
+C:\Users\pknox\Documents\Visual Studio 2017\Projects\TestBed\TestBed\obj\Debug\netcoreapp2.0\Ninject_And_AutoMapper.AssemblyInfoInputs.cache
+C:\Users\pknox\Documents\Visual Studio 2017\Projects\TestBed\TestBed\obj\Debug\netcoreapp2.0\Ninject_And_AutoMapper.AssemblyInfo.cs
+C:\Users\pknox\Documents\Visual Studio 2017\Projects\TestBed\TestBed\obj\Debug\netcoreapp2.0\Ninject_And_AutoMapper.dll
+C:\Users\pknox\Documents\Visual Studio 2017\Projects\TestBed\TestBed\obj\Debug\netcoreapp2.0\Ninject_And_AutoMapper.pdb

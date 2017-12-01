@@ -1,0 +1,11 @@
+C:\Users\pknox\Documents\Visual Studio 2017\Projects\TestBed\TestBed\bin\Debug\netcoreapp2.0\TestBed.deps.json
+C:\Users\pknox\Documents\Visual Studio 2017\Projects\TestBed\TestBed\bin\Debug\netcoreapp2.0\TestBed.runtimeconfig.json
+C:\Users\pknox\Documents\Visual Studio 2017\Projects\TestBed\TestBed\bin\Debug\netcoreapp2.0\TestBed.runtimeconfig.dev.json
+C:\Users\pknox\Documents\Visual Studio 2017\Projects\TestBed\TestBed\bin\Debug\netcoreapp2.0\TestBed.dll
+C:\Users\pknox\Documents\Visual Studio 2017\Projects\TestBed\TestBed\obj\Debug\netcoreapp2.0\TestBed.csprojResolveAssemblyReference.cache
+C:\Users\pknox\Documents\Visual Studio 2017\Projects\TestBed\TestBed\obj\Debug\netcoreapp2.0\TestBed.csproj.CoreCompileInputs.cache
+C:\Users\pknox\Documents\Visual Studio 2017\Projects\TestBed\TestBed\obj\Debug\netcoreapp2.0\TestBed.AssemblyInfoInputs.cache
+C:\Users\pknox\Documents\Visual Studio 2017\Projects\TestBed\TestBed\obj\Debug\netcoreapp2.0\TestBed.AssemblyInfo.cs
+C:\Users\pknox\Documents\Visual Studio 2017\Projects\TestBed\TestBed\bin\Debug\netcoreapp2.0\TestBed.pdb
+C:\Users\pknox\Documents\Visual Studio 2017\Projects\TestBed\TestBed\obj\Debug\netcoreapp2.0\TestBed.dll
+C:\Users\pknox\Documents\Visual Studio 2017\Projects\TestBed\TestBed\obj\Debug\netcoreapp2.0\TestBed.pdb
