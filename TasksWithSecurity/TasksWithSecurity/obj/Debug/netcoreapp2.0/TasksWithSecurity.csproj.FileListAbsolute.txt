@@ -1,0 +1,12 @@
+C:\Users\pknox\Documents\Visual Studio 2017\Projects\TasksWithSecurity\TasksWithSecurity\bin\Debug\netcoreapp2.0\TasksWithSecurity.deps.json
+C:\Users\pknox\Documents\Visual Studio 2017\Projects\TasksWithSecurity\TasksWithSecurity\bin\Debug\netcoreapp2.0\TasksWithSecurity.runtimeconfig.json
+C:\Users\pknox\Documents\Visual Studio 2017\Projects\TasksWithSecurity\TasksWithSecurity\bin\Debug\netcoreapp2.0\TasksWithSecurity.runtimeconfig.dev.json
+C:\Users\pknox\Documents\Visual Studio 2017\Projects\TasksWithSecurity\TasksWithSecurity\bin\Debug\netcoreapp2.0\TasksWithSecurity.dll
+C:\Users\pknox\Documents\Visual Studio 2017\Projects\TasksWithSecurity\TasksWithSecurity\bin\Debug\netcoreapp2.0\TasksWithSecurity.pdb
+C:\Users\pknox\Documents\Visual Studio 2017\Projects\TasksWithSecurity\TasksWithSecurity\obj\Debug\netcoreapp2.0\TasksWithSecurity.csprojResolveAssemblyReference.cache
+C:\Users\pknox\Documents\Visual Studio 2017\Projects\TasksWithSecurity\TasksWithSecurity\obj\Debug\netcoreapp2.0\TasksWithSecurity.csproj.CoreCompileInputs.cache
+C:\Users\pknox\Documents\Visual Studio 2017\Projects\TasksWithSecurity\TasksWithSecurity\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\pknox\Documents\Visual Studio 2017\Projects\TasksWithSecurity\TasksWithSecurity\obj\Debug\netcoreapp2.0\TasksWithSecurity.AssemblyInfoInputs.cache
+C:\Users\pknox\Documents\Visual Studio 2017\Projects\TasksWithSecurity\TasksWithSecurity\obj\Debug\netcoreapp2.0\TasksWithSecurity.AssemblyInfo.cs
+C:\Users\pknox\Documents\Visual Studio 2017\Projects\TasksWithSecurity\TasksWithSecurity\obj\Debug\netcoreapp2.0\TasksWithSecurity.dll
+C:\Users\pknox\Documents\Visual Studio 2017\Projects\TasksWithSecurity\TasksWithSecurity\obj\Debug\netcoreapp2.0\TasksWithSecurity.pdb

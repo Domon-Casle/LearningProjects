@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TasksWithSecurity", "TasksWithSecurity\TasksWithSecurity.csproj", "{216B042E-7D88-4D66-8ED1-F9FEF9799E42}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{216B042E-7D88-4D66-8ED1-F9FEF9799E42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{216B042E-7D88-4D66-8ED1-F9FEF9799E42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{216B042E-7D88-4D66-8ED1-F9FEF9799E42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{216B042E-7D88-4D66-8ED1-F9FEF9799E42}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CEE2BC1B-B04B-45E1-8726-226E0719498C}
+	EndGlobalSection
+EndGlobal
