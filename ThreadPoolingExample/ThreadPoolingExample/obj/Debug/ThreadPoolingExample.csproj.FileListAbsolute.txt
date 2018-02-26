@@ -1,0 +1,7 @@
+C:\Users\pknox\Documents\Visual Studio 2017\Projects\ThreadPoolingExample\ThreadPoolingExample\bin\Debug\ThreadPoolingExample.exe.config
+C:\Users\pknox\Documents\Visual Studio 2017\Projects\ThreadPoolingExample\ThreadPoolingExample\bin\Debug\ThreadPoolingExample.exe
+C:\Users\pknox\Documents\Visual Studio 2017\Projects\ThreadPoolingExample\ThreadPoolingExample\bin\Debug\ThreadPoolingExample.pdb
+C:\Users\pknox\Documents\Visual Studio 2017\Projects\ThreadPoolingExample\ThreadPoolingExample\obj\Debug\ThreadPoolingExample.csprojResolveAssemblyReference.cache
+C:\Users\pknox\Documents\Visual Studio 2017\Projects\ThreadPoolingExample\ThreadPoolingExample\obj\Debug\ThreadPoolingExample.csproj.CoreCompileInputs.cache
+C:\Users\pknox\Documents\Visual Studio 2017\Projects\ThreadPoolingExample\ThreadPoolingExample\obj\Debug\ThreadPoolingExample.exe
+C:\Users\pknox\Documents\Visual Studio 2017\Projects\ThreadPoolingExample\ThreadPoolingExample\obj\Debug\ThreadPoolingExample.pdb

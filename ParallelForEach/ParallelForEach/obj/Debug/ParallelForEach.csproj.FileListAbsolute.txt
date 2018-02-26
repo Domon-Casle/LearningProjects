@@ -1,0 +1,6 @@
+C:\Users\pknox\Documents\Visual Studio 2017\Projects\ParallelForEach\ParallelForEach\bin\Debug\ParallelForEach.exe.config
+C:\Users\pknox\Documents\Visual Studio 2017\Projects\ParallelForEach\ParallelForEach\bin\Debug\ParallelForEach.exe
+C:\Users\pknox\Documents\Visual Studio 2017\Projects\ParallelForEach\ParallelForEach\bin\Debug\ParallelForEach.pdb
+C:\Users\pknox\Documents\Visual Studio 2017\Projects\ParallelForEach\ParallelForEach\obj\Debug\ParallelForEach.csproj.CoreCompileInputs.cache
+C:\Users\pknox\Documents\Visual Studio 2017\Projects\ParallelForEach\ParallelForEach\obj\Debug\ParallelForEach.exe
+C:\Users\pknox\Documents\Visual Studio 2017\Projects\ParallelForEach\ParallelForEach\obj\Debug\ParallelForEach.pdb
