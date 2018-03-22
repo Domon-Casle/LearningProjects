@@ -1,0 +1,15 @@
+﻿@using Microsoft.AspNetCore.Mvc.Localization
+
+@inject IHtmlLocalizer<SharedResources> Localizer
+<!-- replace the above IHTMLLocalizer<SharedResources> with IViewLocalizer if each view has its own resource file -->
+
+@{
+    ViewData["Title"] = Localizer["Home Page"];
+}
+
+<div>
+    <h2>@ViewData["Title"].</h2>
+    <h3>@ViewData["Message"].</h3>
+
+    <p>@Localizer["This is a message in the text being converted"]</p>
+</div>

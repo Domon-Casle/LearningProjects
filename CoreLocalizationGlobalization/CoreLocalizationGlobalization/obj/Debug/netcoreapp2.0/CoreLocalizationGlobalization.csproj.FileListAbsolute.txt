@@ -1,0 +1,15 @@
+C:\Users\pknox\Documents\Visual Studio 2017\Projects\CoreLocalizationGlobalization\CoreLocalizationGlobalization\bin\Debug\netcoreapp2.0\CoreLocalizationGlobalization.deps.json
+C:\Users\pknox\Documents\Visual Studio 2017\Projects\CoreLocalizationGlobalization\CoreLocalizationGlobalization\bin\Debug\netcoreapp2.0\CoreLocalizationGlobalization.runtimeconfig.json
+C:\Users\pknox\Documents\Visual Studio 2017\Projects\CoreLocalizationGlobalization\CoreLocalizationGlobalization\bin\Debug\netcoreapp2.0\CoreLocalizationGlobalization.runtimeconfig.dev.json
+C:\Users\pknox\Documents\Visual Studio 2017\Projects\CoreLocalizationGlobalization\CoreLocalizationGlobalization\bin\Debug\netcoreapp2.0\CoreLocalizationGlobalization.dll
+C:\Users\pknox\Documents\Visual Studio 2017\Projects\CoreLocalizationGlobalization\CoreLocalizationGlobalization\bin\Debug\netcoreapp2.0\CoreLocalizationGlobalization.pdb
+C:\Users\pknox\Documents\Visual Studio 2017\Projects\CoreLocalizationGlobalization\CoreLocalizationGlobalization\bin\Debug\netcoreapp2.0\de\CoreLocalizationGlobalization.resources.dll
+C:\Users\pknox\Documents\Visual Studio 2017\Projects\CoreLocalizationGlobalization\CoreLocalizationGlobalization\obj\Debug\netcoreapp2.0\CoreLocalizationGlobalization.csprojResolveAssemblyReference.cache
+C:\Users\pknox\Documents\Visual Studio 2017\Projects\CoreLocalizationGlobalization\CoreLocalizationGlobalization\obj\Debug\netcoreapp2.0\CoreLocalizationGlobalization.csproj.GenerateResource.cache
+C:\Users\pknox\Documents\Visual Studio 2017\Projects\CoreLocalizationGlobalization\CoreLocalizationGlobalization\obj\Debug\netcoreapp2.0\CoreLocalizationGlobalization.csproj.CoreCompileInputs.cache
+C:\Users\pknox\Documents\Visual Studio 2017\Projects\CoreLocalizationGlobalization\CoreLocalizationGlobalization\obj\Debug\netcoreapp2.0\CoreLocalizationGlobalization.AssemblyInfoInputs.cache
+C:\Users\pknox\Documents\Visual Studio 2017\Projects\CoreLocalizationGlobalization\CoreLocalizationGlobalization\obj\Debug\netcoreapp2.0\CoreLocalizationGlobalization.AssemblyInfo.cs
+C:\Users\pknox\Documents\Visual Studio 2017\Projects\CoreLocalizationGlobalization\CoreLocalizationGlobalization\obj\Debug\netcoreapp2.0\de\CoreLocalizationGlobalization.resources.dll
+C:\Users\pknox\Documents\Visual Studio 2017\Projects\CoreLocalizationGlobalization\CoreLocalizationGlobalization\obj\Debug\netcoreapp2.0\CoreLocalizationGlobalization.dll
+C:\Users\pknox\Documents\Visual Studio 2017\Projects\CoreLocalizationGlobalization\CoreLocalizationGlobalization\obj\Debug\netcoreapp2.0\CoreLocalizationGlobalization.pdb
+C:\Users\pknox\Documents\Visual Studio 2017\Projects\CoreLocalizationGlobalization\CoreLocalizationGlobalization\obj\Debug\netcoreapp2.0\CoreLocalizationGlobalization.Resources.SharedResources.de.resources
