@@ -9,3 +9,14 @@ C:\Users\pknox\Documents\Visual Studio 2017\Projects\TestBed\TestBed\obj\Debug\n
 C:\Users\pknox\Documents\Visual Studio 2017\Projects\TestBed\TestBed\obj\Debug\netcoreapp2.0\Ninject_And_AutoMapper.AssemblyInfo.cs
 C:\Users\pknox\Documents\Visual Studio 2017\Projects\TestBed\TestBed\obj\Debug\netcoreapp2.0\Ninject_And_AutoMapper.dll
 C:\Users\pknox\Documents\Visual Studio 2017\Projects\TestBed\TestBed\obj\Debug\netcoreapp2.0\Ninject_And_AutoMapper.pdb
+D:\JavaScriptClasses\LearningProjects\Ninject_AutoMapper\TestBed\bin\Debug\netcoreapp2.0\Ninject_And_AutoMapper.deps.json
+D:\JavaScriptClasses\LearningProjects\Ninject_AutoMapper\TestBed\bin\Debug\netcoreapp2.0\Ninject_And_AutoMapper.runtimeconfig.json
+D:\JavaScriptClasses\LearningProjects\Ninject_AutoMapper\TestBed\bin\Debug\netcoreapp2.0\Ninject_And_AutoMapper.runtimeconfig.dev.json
+D:\JavaScriptClasses\LearningProjects\Ninject_AutoMapper\TestBed\bin\Debug\netcoreapp2.0\Ninject_And_AutoMapper.dll
+D:\JavaScriptClasses\LearningProjects\Ninject_AutoMapper\TestBed\bin\Debug\netcoreapp2.0\Ninject_And_AutoMapper.pdb
+D:\JavaScriptClasses\LearningProjects\Ninject_AutoMapper\TestBed\obj\Debug\netcoreapp2.0\Ninject_And_AutoMapper.csprojResolveAssemblyReference.cache
+D:\JavaScriptClasses\LearningProjects\Ninject_AutoMapper\TestBed\obj\Debug\netcoreapp2.0\Ninject_And_AutoMapper.csproj.CoreCompileInputs.cache
+D:\JavaScriptClasses\LearningProjects\Ninject_AutoMapper\TestBed\obj\Debug\netcoreapp2.0\Ninject_And_AutoMapper.AssemblyInfoInputs.cache
+D:\JavaScriptClasses\LearningProjects\Ninject_AutoMapper\TestBed\obj\Debug\netcoreapp2.0\Ninject_And_AutoMapper.AssemblyInfo.cs
+D:\JavaScriptClasses\LearningProjects\Ninject_AutoMapper\TestBed\obj\Debug\netcoreapp2.0\Ninject_And_AutoMapper.dll
+D:\JavaScriptClasses\LearningProjects\Ninject_AutoMapper\TestBed\obj\Debug\netcoreapp2.0\Ninject_And_AutoMapper.pdb

@@ -3445,26 +3445,26 @@
   },
   "packageFolders": {
     "C:\\Users\\pknox\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
-    "restoreSettings": {
-      "hideWarningsAndErrors": true
-    },
     "restore": {
-      "projectUniqueName": "C:\\Users\\pknox\\Documents\\Visual Studio 2017\\Projects\\TestBed\\TestBed\\Ninject_And_AutoMapper.csproj",
+      "projectUniqueName": "D:\\JavaScriptClasses\\LearningProjects\\Ninject_AutoMapper\\TestBed\\Ninject_And_AutoMapper.csproj",
       "projectName": "Ninject_And_AutoMapper",
-      "projectPath": "C:\\Users\\pknox\\Documents\\Visual Studio 2017\\Projects\\TestBed\\TestBed\\Ninject_And_AutoMapper.csproj",
+      "projectPath": "D:\\JavaScriptClasses\\LearningProjects\\Ninject_AutoMapper\\TestBed\\Ninject_And_AutoMapper.csproj",
       "packagesPath": "C:\\Users\\pknox\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\pknox\\Documents\\Visual Studio 2017\\Projects\\TestBed\\TestBed\\obj\\",
+      "outputPath": "D:\\JavaScriptClasses\\LearningProjects\\Ninject_AutoMapper\\TestBed\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
         "C:\\Users\\pknox\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.Fallback.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.0"
@@ -3487,18 +3487,18 @@
     "frameworks": {
       "netcoreapp2.0": {
         "dependencies": {
-          "Microsoft.NETCore.App": {
-            "target": "Package",
-            "version": "2.0",
-            "autoReferenced": true
-          },
           "AutoMapper": {
             "target": "Package",
-            "version": "6.2.1"
+            "version": "[6.2.1, )"
+          },
+          "Microsoft.NETCore.App": {
+            "target": "Package",
+            "version": "[2.0.0, )",
+            "autoReferenced": true
           },
           "Ninject": {
             "target": "Package",
-            "version": "3.3.4"
+            "version": "[3.3.4, )"
           }
         },
         "imports": [
